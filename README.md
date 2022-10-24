@@ -12,3 +12,21 @@ python manage.py runserver
 - Django
 - Bootstrap
 - JavaScript
+
+## Screenshots
+
+### Home Page / Upcoming Events
+
+![home page](screenshots/home.png)
+
+### Past Events
+
+![home page](screenshots/past_event.png)
+
+### Filtered Events
+
+![home page](screenshots/freelancing.png)
+
+### Scheduling a new Event
+
+![home page](screenshots/add_event.png)
